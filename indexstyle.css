@@ -57,7 +57,7 @@ body{
 .firstLayer{
 	width: 1336px;
 	height: 768px;
-	background-image: url("h1.JPG");
+	background-image: url("h1.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -100,7 +100,7 @@ body{
 .fifthLayer{
 	width: 1336px;
 	height: 768px;
-	background-image: url("h6.JPEG");
+	background-image: url("h6.jpeg");
 	background-repeat: no-repeat;
 }
 
