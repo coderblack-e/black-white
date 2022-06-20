@@ -1,0 +1,83 @@
+
+
+a{
+	text-decoration: none;
+	padding-left: 10px;
+	font-family: calibri;
+	color: #201d1d;
+}
+
+a:hover{
+	color: red;
+	font-size: 1.5em;
+}
+
+body{
+	width: 100%;
+}
+
+h3{
+	color: white;
+	font-family: calibri;
+	text-align: center;
+	padding-top: 20px;
+}
+
+.headerNav{
+	background-color: white;
+	width: 100%;
+}
+
+.headerNavContent{
+	display: flex;
+	position: fixed;
+	background-color: white;
+	width: 1440px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+.headerText{
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+
+.firstLayer{
+	width: 1440px;
+	height: 456px;
+	background-image: url("wedding.JPG");
+	background-repeat: no-repeat;
+}
+
+.firstLayerText{
+	text-align: center;
+	color: white;
+	font-family: calibri;
+	font-size: 3em;
+	position: absolute;
+	top: 25%;
+	width: 100%;
+}
+
+.Container{
+	position: absolute;
+	left: 20%;
+	right: 20%;
+}
+
+.firstLayerParagraph{
+	display: block;
+	font-family: calibri;
+	text-align: justify;
+	font-size: 18px;
+	line-height: 32px;
+}
+
+.bookNowButton{
+	background-color: black;
+	width: 150px;
+	height: 50px;
+	position: relative;
+	left: 40%;
+}
+
