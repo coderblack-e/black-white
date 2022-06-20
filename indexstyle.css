@@ -1,0 +1,112 @@
+a{
+	text-decoration: none;
+	padding-left: 10px;
+	font-family: calibri;
+	color: #201d1d;
+}
+
+a:hover{
+	color: red;
+	font-size: 1.5em;
+}
+
+a:active{
+	color: blue;
+	font-size: 1.5em;
+}
+
+h4{
+	color: white;
+	padding-top: 10px;
+}
+
+h2{
+	color: white;
+	font-family: calibri;
+	text-align: center;
+	padding-top: 364px;
+	font-size: 4em;
+}
+
+h3{
+	color: black;
+	font-family: calibri;
+	text-align: center;
+	font-size: 4em;
+}
+
+body{
+	padding-right: 8px;
+	padding-left: 8px;
+}
+
+.headerNavContent{
+	display: flex;
+	position: fixed;
+	background-color: white;
+	width: 1336px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+.headerText{
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+
+.firstLayer{
+	width: 1336px;
+	height: 768px;
+	background-image: url("h1.JPG");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.firstLayerImg{
+	padding-left: 140px;
+	padding-top: 328px;
+}
+
+.secondLayer{
+	font-family: calibri;
+	text-align: center;
+	width: 1336px;
+	height: 256px;
+	padding-top: 128px;
+}
+
+.secondLayerButton{
+	width: 120px;
+	height: 40px;
+	background-color: black;
+	justify-content: center;
+	margin-left: 608px;
+	border-radius: 10px;
+}
+
+.thirdLayer{
+	display: flex;
+}
+
+.fourthLayer{
+	display: flex;
+}
+
+.gallery{
+	height: 160px;
+	width: 100%;
+}
+
+.fifthLayer{
+	width: 1336px;
+	height: 768px;
+	background-image: url("h6.JPEG");
+	background-repeat: no-repeat;
+}
+
+footer{
+	color: white;
+	font-family: calibri;
+	text-align: center;
+	padding-top: 208px; 
+}
